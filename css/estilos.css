@@ -341,7 +341,7 @@ footer p {
 -------------------------*/
 
 .contacto {
-    maxwidth: 800px;
+    max-width: 800px;
     margin: auto;
 }
 
@@ -356,7 +356,7 @@ form {
 }
 
 form label {
-    fontweight: bold;
+    font-weight: bold;
     margin-top: 8px;
 }
 
@@ -380,9 +380,9 @@ form button {
     border: none;
     border-radius: 30px;
     background-color: #ffb703;
-    fontweight: bold;
+    font-weight: bold;
     cursor: pointer;
-    fontsize: 16px;
+    font-size: 16px;
 }
 
 form button:hover {
